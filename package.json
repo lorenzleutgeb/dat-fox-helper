@@ -17,5 +17,8 @@
   },
   "devDependencies": {
     "pkg": "^4.3.1"
+  },
+  "bin": {
+    "dat-fox-helper": "dat-fox-helper.js"
   }
 }
